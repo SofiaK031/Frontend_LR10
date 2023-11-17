@@ -8,7 +8,7 @@ html, body {
   height: 100%;
   padding: 0px;
   margin: 0px;
-  background: url('images/pic1.jpg') no-repeat center center fixed;
+  background: url('./images/pic1.jpg') no-repeat center center fixed;
   background-size: cover;
   font-size: 22px;
 }
@@ -27,7 +27,7 @@ main {
   width: 600px;
   height: 600px;
   border-radius: 25px;
-  background: url('images/background1.jpg') no-repeat center center fixed;
+  background: url('./images/background1.jpg') no-repeat center center fixed;
   box-shadow: #ff41de -7px 5px 20px, #ff41de 7px -5px 20px;
   padding: 25px;
   flex-direction: column;
@@ -56,7 +56,7 @@ main {
   width: 100%;
   border: solid black 2px;
   background-color: rgb(228, 211, 211);
-  background-image: url('images/picture.png');
+  background-image: url('./images/picture.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
